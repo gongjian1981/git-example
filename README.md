@@ -3,7 +3,7 @@
 ## Course
 `SENG8120`
 
-## Seesion
+## Session
 `2025 Winter`
 
 ## Other Info
@@ -12,7 +12,10 @@
 _underscore format_
 
 ### format 2
-*bold format*
+**bold format**
+
+### format 3
+__bold format__
 
 ### a simple code
 ```
